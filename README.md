@@ -39,6 +39,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Frontend (базовые знания)
 
@@ -84,6 +85,9 @@ https://github.com/OffTheWall-13/LOFT_mebel
 - Работа с пользователями
 - Логика взаимодействия через меню
 
+🔗 Репозиторий:
+https://github.com/OffTheWall-13/aiogram3_shop_bot
+
 ---
 
 ## 📚 Сейчас изучаю
@@ -91,7 +95,6 @@ https://github.com/OffTheWall-13/LOFT_mebel
 - Django REST Framework
 - REST API
 - Docker
-- Тестирование Django приложений
 - Архитектуру backend-приложений
 
 ---
