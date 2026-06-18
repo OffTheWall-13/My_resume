@@ -113,9 +113,9 @@ https://github.com/OffTheWall-13/aiogram3_shop_bot
 
 ## 📫 Контакты
 
-- Telegram: @YOUR_TELEGRAM
-- Email: YOUR_EMAIL
-- HH.uz: YOUR_HH_LINK
+- Telegram: https://t.me/errors_not_found_404
+- Email: dmitrijbarinov972@gmail.com
+- HH.uz: https://tashkent.hh.uz/resume/8099a523ff10a72a1c0039ed1f79773939784b
 
 ---
 
